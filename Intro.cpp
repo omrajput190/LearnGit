@@ -5,5 +5,5 @@ int mian()
     int a, b;
     cin >> a >> b;
     int c = a + b;
-    cout << c << " " << endl;
+    cout << c << "sum is here " << endl;
 }
